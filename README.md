@@ -13,9 +13,7 @@
 ## 🌟 Features
 
 - 📱 Responsive design that works across all devices
-- 🖱️ Tech gear product pages with images, ratings, and highlights
-- 🗂️ Categorized product browsing (e.g. Mice, Keyboards, Laptops)
-- 📝 Static or CMS-ready review sections
+- 🖱️ Tech gear product pages with images, ratings, and highlights  
 - ⚡ Fast performance and SEO-optimized pages
 - 🌙 Optional dark mode support
 
